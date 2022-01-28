@@ -1,12 +1,16 @@
 public class NumerosPares {
-    public static void main(String[] args) {
-        int numero;
-        for (numero = 0; numero <= 98; numero++){
-            if (numero % 2 == 0 && numero < 98){
-                System.out.print(numero + ", ");
-            }else if (numero == 98) {
-                System.out.print(numero);
-            }
-        }
-    }
+
+	public static void main(String[] args) {
+		int num;
+		for(num = 0; num <= 98; num++) {
+		if(num%2 == 0 && num<98) {
+			System.out.printf(num + ", ");	
+				}
+		else if(num%2 == 0 && num == 98){
+			System.out.println(num);
+		}
+		}
+
+	}
+
 }
