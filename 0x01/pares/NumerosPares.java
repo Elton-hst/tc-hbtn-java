@@ -4,7 +4,7 @@ public class NumerosPares {
         for (numero = 0; numero <= 98; numero++){
             if (numero % 2 == 0 && numero < 98){
                 System.out.print(numero + ", ");
-            }else if (numero %2 == 0 && numero == 98) {
+            }else if (numero == 98) {
                 System.out.print(numero);
             }
         }
