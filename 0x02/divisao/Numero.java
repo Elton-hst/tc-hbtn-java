@@ -1,14 +1,19 @@
-package divisao;
-public class Numero {
-    public static void dividir(int a, int b){
-
-        int resultado = 0;
-        resultado = a / b;
-
+public class Numero{
+	public static void dividir(int a, int b) { 
+	
+        int resp = 0;
+        
         try {
-            return resultado;
-        } catch (Exception e) {
-            System.out.println("erro na divisão");
+            resp = a/b;
+            
         }
-    }
+        catch(ArithmeticException exeption){
+            resp = 0;
+            System.out.println("Nao eh possivel dividir por zero");
+        }
+        
+        finally {
+            System.out.println(a + " / " + b + " = " + resp);
+        }
+	}
 }
