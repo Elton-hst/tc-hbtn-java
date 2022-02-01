@@ -1,6 +1,6 @@
-public class PersonagemGame{
-
-    String nome;
-    int saudeAtual;
+public class PersonagemGame {
+	
+	public int saudeAtual;
+	public String nome;
 
 }
