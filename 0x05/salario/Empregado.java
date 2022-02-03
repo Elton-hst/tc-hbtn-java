@@ -1,6 +1,6 @@
 public class Empregado {
     
-    private double salarioFixo;
+    protected double salarioFixo;
 
     public double calcularBonus(Departamento departamento){
         if (departamento.alcancouMeta()){
