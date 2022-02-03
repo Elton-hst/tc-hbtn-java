@@ -14,7 +14,8 @@ public class Quadrado extends Retangulo {
         }
 
     }
-
+    
+    @Override
     public double area() {
         return lado * lado; 
     }
