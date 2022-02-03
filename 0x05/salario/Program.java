@@ -41,7 +41,7 @@ public class Program {
                 empregadoDocumentacao2.calcularSalarioTotal(departamentoDocumentacao),
                 empregadoDocumentacao2.calcularBonus(departamentoDocumentacao));
 
-        System.out.printf("Salario Fixo: %.2f - Salario Total: %.2f - Valor Bonus: %.2f\n",
+        System.out.printf("Salario Fixo: %.2f - Salario Total: %.2f - Valor Bonus: %.2f\n ",
                 gerenteDocumentacao.getSalarioFixo(),
                 gerenteDocumentacao.calcularSalarioTotal(departamentoDocumentacao),
                 gerenteDocumentacao.calcularBonus(departamentoDocumentacao));
