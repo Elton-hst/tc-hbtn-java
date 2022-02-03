@@ -1,10 +1,12 @@
 import java.util.Locale;
 
 public class Program {
-    public static void main(String[] args) {
-        Locale.setDefault(new Locale("pt", "BR"));
 
-        Departamento departamentoEngenharia = new Departamento(1000, 1100);
+	public static void main(String[] args) {
+		
+		Locale.setDefault(new Locale("pt", "BR"));
+		
+		Departamento departamentoEngenharia = new Departamento(1000, 1100);
         Departamento departamentoDocumentacao = new Departamento(1000, 800);
 
         Empregado empregadoEngenharia1 = new Empregado(2300);
@@ -44,5 +46,8 @@ public class Program {
                 gerenteDocumentacao.getSalarioFixo(),
                 gerenteDocumentacao.calcularSalarioTotal(departamentoDocumentacao),
                 gerenteDocumentacao.calcularBonus(departamentoDocumentacao));
-    }
+
+	}
+
 }
+
