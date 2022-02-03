@@ -2,6 +2,7 @@ import java.util.Locale;
 
 public class Program {
     public static void main(String[] args) {
+        
         Locale.setDefault(new Locale("pt", "BR"));
 
         Departamento departamentoEngenharia = new Departamento(1000, 1100);
