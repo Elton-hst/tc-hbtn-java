@@ -1,6 +1,12 @@
 import java.util.Locale;
 
 public class Program {
+<<<<<<< HEAD
+=======
+    public static void main(String[] args) {
+        
+        Locale.setDefault(new Locale("pt", "BR"));
+>>>>>>> 03f7dba7d0bd92e1f7de05d501707f5bd9ea6dba
 
 	public static void main(String[] args) {
 		
@@ -42,12 +48,17 @@ public class Program {
                 empregadoDocumentacao2.calcularSalarioTotal(departamentoDocumentacao),
                 empregadoDocumentacao2.calcularBonus(departamentoDocumentacao));
 
-        System.out.printf("Salario Fixo: %.2f - Salario Total: %.2f - Valor Bonus: %.2f\n",
+        System.out.printf("Salario Fixo: %.2f - Salario Total: %.2f - Valor Bonus: %.2f\n ",
                 gerenteDocumentacao.getSalarioFixo(),
                 gerenteDocumentacao.calcularSalarioTotal(departamentoDocumentacao),
                 gerenteDocumentacao.calcularBonus(departamentoDocumentacao));
+<<<<<<< HEAD
 
 	}
 
 }
 
+=======
+    }
+}
+>>>>>>> 03f7dba7d0bd92e1f7de05d501707f5bd9ea6dba
