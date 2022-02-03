@@ -45,13 +45,7 @@ public class Program {
                 gerenteDocumentacao.getSalarioFixo(),
                 gerenteDocumentacao.calcularSalarioTotal(departamentoDocumentacao),
                 gerenteDocumentacao.calcularBonus(departamentoDocumentacao));
-<<<<<<< HEAD
 
 	}
 
 }
-
-=======
-    }
-}
->>>>>>> 03f7dba7d0bd92e1f7de05d501707f5bd9ea6dba
