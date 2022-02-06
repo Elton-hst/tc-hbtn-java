@@ -1,6 +1,8 @@
+import java.util.Locale;
 
 public class Program {
     public static void main(String[] args) {
+        Locale.setDefault(new Locale("pt", "BR"));
         try {
             ContaBancariaBasica conta1 = new ContaBancariaBasica("AAA", 50.0);
             System.out.printf("Conta %s - saldo: %.2f\n", conta1.getNumeracao(), conta1.getSaldo());
