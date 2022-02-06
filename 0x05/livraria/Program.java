@@ -19,7 +19,7 @@ public class Program {
                     LivroEdicaoOuro livroEdicaoOuro1 = new LivroEdicaoOuro(
                                     "Xato",
                                     "Fernando Morais",
-                                    38.30);
+                                     38.30);
 
                     System.out.printf("Titulo: %s - Autor: %s - Preco: %.2f\n",
                                     livroEdicaoOuro1.getTitulo(),
