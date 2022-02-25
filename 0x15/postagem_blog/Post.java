@@ -1,4 +1,5 @@
-public class Post implements Comparable<Post> {
+public class Post implements Comparable<Post>{
+
     private Autor autor;
     private String titulo;
     private String corpo;
@@ -15,25 +16,41 @@ public class Post implements Comparable<Post> {
         return autor;
     }
 
+    public void setAutor(Autor autor) {
+        this.autor = autor;
+    }
+
     public String getTitulo() {
         return titulo;
+    }
+
+    public void setTitulo(String titulo) {
+        this.titulo = titulo;
     }
 
     public String getCorpo() {
         return corpo;
     }
 
+    public void setCorpo(String corpo) {
+        this.corpo = corpo;
+    }
+
     public Categorias getCategoria() {
         return categoria;
     }
 
-    @Override
-    public String toString() {
-        return getTitulo();
+    public void setCategoria(Categorias categoria) {
+        this.categoria = categoria;
     }
 
     @Override
-    public int compareTo(Post o) {
-        return this.titulo.compareTo(o.titulo);
+    public String toString() {
+        return titulo;
+    }
+
+    @Override
+    public int compareTo(Post outroTitulo) {
+        return this.titulo.compareToIgnoreCase(outroTitulo.getTitulo());
     }
 }
