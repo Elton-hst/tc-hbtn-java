@@ -1,37 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f2a63ce-ca0b-42a9-b460-2eea7265c452" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Aritmeticos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/criar_jar_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/holbertonschool/matematica/Aritmeticos.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/criar_jar_jar/criar_jar.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/criar_jar/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/criar_jar/.idea/artifacts/criar_jar_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/criar_jar/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/criar_jar/com/holbertonschool/matematica/Aritmeticos.class" beforeDir="false" />
+    <list default="true" id="fdbca5f1-c3fd-497b-949a-e42ae971fd82" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../criar_jar.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/criar_jar.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/holbertonschool/matematica/Aritmeticos.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/holbertonschool/matematica/Aritmeticos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/criar_jar/.idea/criar_jar.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/criar_jar/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/criar_jar/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/criar_jar/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/criar_jar/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/criar_jar/Aritmeticos.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/criar_jar/script.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.sh" beforeDir="false" afterPath="$PROJECT_DIR$/script.sh" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="MarkdownSettingsMigration">
-    <option name="stateVersion" value="1" />
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
   </component>
-  <component name="ProjectId" id="26NzkVX3wHID7IH7znkLGSx5Njs" />
+  <component name="ProjectId" id="26OCtH5IFz3GpvFt9DFfjiIyAHu" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -40,20 +44,19 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="project.structure.last.edited" value="Artifacts" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="9f2a63ce-ca0b-42a9-b460-2eea7265c452" name="Changes" comment="" />
-      <created>1647278978271</created>
+      <changelist id="fdbca5f1-c3fd-497b-949a-e42ae971fd82" name="Changes" comment="" />
+      <created>1647285463434</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1647278978271</updated>
+      <updated>1647285463434</updated>
     </task>
     <servers />
   </component>
@@ -67,5 +70,8 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>

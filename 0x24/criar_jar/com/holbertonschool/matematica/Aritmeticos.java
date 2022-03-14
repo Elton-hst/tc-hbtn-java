@@ -1,4 +1,5 @@
 package com.holbertonschool.matematica;
+
 public class Aritmeticos {
 
 
@@ -17,5 +18,4 @@ public class Aritmeticos {
     public static int dividir(int valor1, int valor2){
         return valor1 / valor2;
     }
-
 }

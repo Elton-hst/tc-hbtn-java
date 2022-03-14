@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/criar_jar.iml" filepath="$PROJECT_DIR$/.idea/criar_jar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../criar_jar.iml" filepath="$PROJECT_DIR$/../criar_jar.iml" />
     </modules>
   </component>
 </project>
