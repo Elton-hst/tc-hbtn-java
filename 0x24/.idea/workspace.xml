@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="38485d1e-0b02-483b-8e4d-a8f67fd5ec0c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/criar_jar/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/criar_jar/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/criar_jar/com/holbertonschool/matematica/Aritmeticos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/criar_jar/script.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jar_executavel/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jar_executavel/.idea/jar_executavel.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jar_executavel/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jar_executavel/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jar_executavel/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jar_executavel/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jar_executavel/build/com/holbertonschool/matematica/Aritmeticos.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jar_executavel/com/holbertonschool/main/Program.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jar_executavel/com/holbertonschool/matematica/Aritmeticos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jar_executavel/lib/Matematica.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jar_executavel/script.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utilizar_jar/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utilizar_jar/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utilizar_jar/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utilizar_jar/.idea/utilizar_jar.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utilizar_jar/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utilizar_jar/build/com/holbertonschool/matematica/Aritmeticos.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utilizar_jar/com/holbertonschool/main/Program.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utilizar_jar/com/holbertonschool/matematica/Aritmeticos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utilizar_jar/lib/Matematica.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utilizar_jar/script.sh" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="26OuztKVkQ5Ae9VBTqmJlUmW74l" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/criar_jar" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="38485d1e-0b02-483b-8e4d-a8f67fd5ec0c" name="Changes" comment="" />
+      <created>1647307218953</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1647307218953</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
